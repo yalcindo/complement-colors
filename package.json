@@ -1,0 +1,27 @@
+{
+  "name": "complement-colors",
+  "version": "0.0.0",
+  "description": "Generating complement colors",
+  "main": "index.js",
+  "scripts": {
+    "test": " make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yalcindo/complement-colors.git"
+  },
+  "keywords": [
+    "color",
+    "complement"
+  ],
+  "author": "Yalcin Dogan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yalcindo/complement-colors/issues"
+  },
+  "homepage": "https://github.com/yalcindo/complement-colors",
+  "devDependencies": {
+    "mocha": "~2.0.1",
+    "chai": "~1.10.0"
+  }
+}
